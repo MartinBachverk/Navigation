@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Baasirakendusteema. -->
+    <!-- TODO! change DarkActionBar to NoActionBar. This will remove the default actionbar-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Kõhandame oma teema. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
